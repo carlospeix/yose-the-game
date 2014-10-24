@@ -5,5 +5,5 @@ configure do
 end
 
 get '/' do
-	"Hola Yose"
+	"Hello Yose"
 end
